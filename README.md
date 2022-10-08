@@ -11,10 +11,10 @@
 
 -----
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact Me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Uou can reach me via:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/luke-feely-9281a521b/" target="blank"><img align="center"
@@ -44,13 +44,13 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
  <p align="center">
   <a href="github.com/LukeFeely" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=LukeFeely&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     src="https://komarev.com/ghpvc/?username=FranklinUmeObi&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
  
  </samp>
@@ -83,7 +83,7 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/LukeFeely/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FranklinUmeObi&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LukeFeely&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeFeely&theme=gruvbox&hide_border=true" />
           </a>
        </p>
