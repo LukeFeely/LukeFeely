@@ -148,7 +148,7 @@
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stasistics</h3></summary>
         <p align="center">
           <a href="https://github.com/LukeFeely/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LukeFeely&show_icons=true&theme=gruvbox&hide_border=true" />
