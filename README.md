@@ -47,8 +47,8 @@
   <summary>🧮 Skills</summary>
 <div>
 <samp>
-👉 Programming languages
 
+<h2 align="center">Programming Languages:</h2>
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -72,7 +72,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+<h2 align="center">Front End Development:</h2>
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -84,7 +84,7 @@
   </a> 
 </p>
 
- ### 👉 Software & Tools
+ <h2 align="center">Software & Tools:</h2>
  
 <p align="center">
   &emsp;
@@ -107,7 +107,7 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
- ### 👉 IDEs
+ <h2 align="center">IDE's:</h2>
  
 <p align="center">
   &emsp;
