@@ -83,7 +83,7 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/LukeFeely/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=LukeFeely&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=FranklinUmeObi&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=LukeFeely&theme=gruvbox&hide_border=true" />
           </a>
        </p>
